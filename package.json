@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@types/google-apps-script": "^0.0.37"
+  },
+  "devDependencies": {
+    "md5": "^2.2.1",
+    "sha1": "^1.1.1"
+  }
+}
